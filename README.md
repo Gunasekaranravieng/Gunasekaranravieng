@@ -74,8 +74,10 @@ Databricks Lakehouse implementation using Bronze, Silver and Gold architecture w
 
 ## 🌐 Connect With Me
 
-**Portfolio:** Gunasekaran Ravi — Data Engineer  
-**LinkedIn:** Gunasekaran Ravi
+
+🌐 [Portfolio](https://gunasekaran-ravi-portfolio.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/gunasekaran-ravi-938792403/)  
+
 
 📍 Chennai, India
 
